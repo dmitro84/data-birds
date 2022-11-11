@@ -5,7 +5,7 @@ const birdsData = [
         name: 'Ворон',
         species: 'Corvus corax',
         description: 'Ворон – крупная птица. Длина тела достигает 70 сантиметров, размах крыльев – до полутора метров. Вороны населяют окрестности Тауэра. В Англии бытует поверье, что в день, когда черные вороны улетят от Тауэра, монархия рухнет.',
-        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/crow.webp',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/crow.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/XIQVMQVUPP/XC518684-Grands%20corbeaux%2009012020%20Suzon.mp3'
       },
       {
@@ -13,7 +13,7 @@ const birdsData = [
         name: 'Журавль',
         species: 'Grus grus',
         description: 'Звуки, издаваемые журавлем, похожи на звонкое «кур-лы – кур-лы». Журавли чаще всего поют дуэтом – одна птица начинает запев со слога «кур», а вторая подхватывает «лы». Если птица поёт одна, то она издает только звук «кур».',
-        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/crain.png',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/crane.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC512582-190604_1087_Grus_tok.mp3'
       },
       {
@@ -21,7 +21,7 @@ const birdsData = [
         name: 'Ласточка',
         species: 'Delichon urbicum',
         description: 'Для ласточек характерно негромкое щебетание. Песни ласточек не смолкают на протяжении всего лета. Исследователи различают у птиц до 6 щебечущих звуков: «вит», «ви-вит», «чивит», «чиривит» и т.п. Ласточки любят петь дуэтом.',
-        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/martin.png',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/swallow.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC489247-190724_09.10h_huiszwaluw_biesbosch_amaliahoeve_roep_100%2Bex_fouragerend_gezien_%20%282%29.mp3'
       },
       {
@@ -29,7 +29,7 @@ const birdsData = [
         name: 'Козодой',
         species: 'Caprimulgus europaeus',
         description: 'Козодой – неприметная птица, известная благодаря своему голосу. Песня козодоя звучит как монотонная трель похожая на тарахтение мотоцикла. Такое дребезжание слышно от заката до рассвета, его тональность, частота и громкость изменяются. ',
-        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/nightjar.webp',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/nightjar.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC486956-190623_22.37h_nachtzwaluw_rechte%20heide_zang_ad%20_2ex_gezien_.mp3'
       },
       {
@@ -37,7 +37,7 @@ const birdsData = [
         name: 'Кукушка',
         species: 'Cuculus canorus',
         description: 'Кукушку назвали так из-за особенностей ее песен. Звонкое «ку-ку» не спутать ни с какой другой птицей. Кукушки не строят гнезда, их потомство выращивают другие виды пернатых, которым кукушки подбрасывают свои яйца.',
-        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/cuckoo.webp',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/cuckoo.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC501461-190616_08.13h_koekoek_brabantse%20biesbosch%20jantjesplaat_roep_1%20ex_ad%20m_ter%20plaatse%20zingend_gezien_.mp3'
       },
       {
@@ -45,7 +45,7 @@ const birdsData = [
         name: 'Синица',
         species: 'Parus major',
         description: 'В щебетании синиц различают более 40 различных звуковых сочетаний. Поют они практически круглый год, немного затихая только зимой. Синицы настоящие санитары леса. Одна пара синиц в период гнездования оберегает от вредителей десятки деревьев.',
-        image: 'https://live.staticflickr.com//65535//49366042493_c48c81d58d.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/tomtit.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/RFGQDPLDEC/XC518417-Kj%C3%B8ttmeis%20XC%20Helg%C3%B8ya%20Elias%20A.%20Ryberg20200108133922_079.mp3'
       }
     ],
@@ -55,7 +55,7 @@ const birdsData = [
         name: 'Воробей',
         species: 'Passer domesticus',
         description: 'Воробьи являются самыми известными и узнаваемыми пернатыми. Их легко узнать по пестрому оперению и задорному чириканью. Воробьи относятся к синатропному виду — они селятся поблизости к человеческому жилищу.',
-        image: 'https://live.staticflickr.com//65535//49366595303_06cf65b07e.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/sparrow.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/CXFHOPIVAS/XC503224-191020_0134.mp3'
       },
       {
@@ -63,7 +63,7 @@ const birdsData = [
         name: 'Грач',
         species: 'Corvus frugilegus',
         description: 'Грачи очень умные и сообразительные птицы. С помощью клюва они создают и используют простейшие орудия. У грачей развит рефлекс на звуки трактора. Услышав «тарахтение», они летят на звук – трактор пашет землю, значит, в этом месте много корма.',
-        image: 'https://live.staticflickr.com//65535//49347123322_291c86b016.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/rook.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/RLRHCUIPIY/XC512540-gawron%20Suble%2019.12.19%20%2012.35.mp3'
       },
       {
@@ -71,7 +71,7 @@ const birdsData = [
         name: 'Галка',
         species: 'Coloeus monedula',
         description: 'Слово «галка» произошло из старославянского языка и переводится как «чёрный». Этим словом часто называют воронов или других черных птиц. Латинское название галки «monedula» связывают со словами монета за любовь птицы к блестящим и ярким вещам.',
-        image: 'https://live.staticflickr.com//65535//49237149586_993cf685c5.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/jackdaw.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC510498-Coloeus%20monedula_2019.11.13_11.55_01.mp3'
       },
       {
@@ -79,7 +79,7 @@ const birdsData = [
         name: 'Певчий дрозд',
         species: 'Turdus philomelos',
         description: 'Дрозд — лучший певец из отряда воробьиных. Песня состоит только из красивых звучных свистов и коротких трелей. Чаще всего её можно услышать в утреннее и вечернее время. Поют дрозды в течении всего периода гнездования.',
-        image: 'https://live.staticflickr.com/65535/48979125763_e2534f54bd.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/thrush.png',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC513326-190704_1146_TF-Glogow.mp3'
       },
       {
