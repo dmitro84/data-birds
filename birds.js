@@ -113,7 +113,7 @@ const birdsData = [
         name: 'Клёст',
         species: 'Loxia curvirostra',
         description: 'Клестов называют «рождественскими» птицами. В естественных условиях они дают потомство зимой – в январе. Эти птицы утепляют свои гнезда мхом и шерстью животных, потому птенцам не холодно. В поисках шишек клесты могут улетать за 3500 км от гнезда.',
-        image: 'https://live.staticflickr.com//65535//49365470123_f2de66bb35.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/crossbill.webp',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/OTVUCEGYZN/XC495381-Kruisbek%20roep%20NHD%20290619.mp3'
       },
       {
@@ -121,7 +121,7 @@ const birdsData = [
         name: 'Горлица',
         species: 'Streptopelia turtur',
         description: 'Горлица обитает в смешанных и широколиственных лесах, а также в городских парках и поселках. Птицы часто выбирают места жизни рядом с человеком и легко привыкают к людям. Благодаря мелодичному приятному пению горлиц часто разводят в домашних условиях.',
-        image: 'https://live.staticflickr.com/65535/48063004977_84252f9ceb.jpg',
+        image: 'https://raw.githubusercontent.com/dmitro84/data-birds/main/images/dove.webp',
         audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC324106-Turkawka_Streptopelia_turtur_Poland_Jarek_Matusiak_2011625_07.mp3'
       },
       {
